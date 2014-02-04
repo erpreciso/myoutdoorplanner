@@ -24,3 +24,7 @@ input {
 .user_input {
 	display: block;
 	}
+	
+#map-canvas {
+    height: 100%;
+	}
