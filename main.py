@@ -28,7 +28,7 @@ class MainHandler(webapp2.RequestHandler):
 
 class Page(MainHandler):
 	def get(self):
-		self.render("backbone.html")
+		self.render("userinput.html")
 
 app = webapp2.WSGIApplication([
     ("/", Page),

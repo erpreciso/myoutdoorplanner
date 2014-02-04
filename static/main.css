@@ -1,0 +1,26 @@
+html {
+	height: 100%;
+	}
+
+body {
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	line-height: 1.125em;
+	color:black;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	}
+
+
+button {
+	font-family: inherit;
+	display: block;
+	}
+
+input {
+	display: inline;
+	}
+
+.user_input {
+	display: block;
+	}
